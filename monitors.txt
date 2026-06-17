@@ -5,3 +5,10 @@ cant stash unless u modify the file or stag it in some case
 in some case it may work also 
 but when stashed the file goes from the local repo
 
+
+merge conflicts 
+
+Headset Inventory
+
+HS-001 Logitech H390
+HS-002 Dell Pro Headset
