@@ -4,3 +4,5 @@ LT-001 Dell Latitude 5430
 LT-002 Dell Latitude 5440
 LT-003 HP EliteBook 840
 LT-004 Lenovo ThinkPad T14
+
+edited from github in laptop
