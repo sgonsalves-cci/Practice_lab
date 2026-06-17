@@ -1,0 +1,4 @@
+Printer Inventory
+
+PR-001 HP LaserJet M404
+PR-002 Brother HL-L2350DW
